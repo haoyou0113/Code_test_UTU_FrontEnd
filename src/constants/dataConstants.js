@@ -1,0 +1,7 @@
+export const DATA_REQUEST = 'DATA_REQUEST';
+export const DATA_SUCCESS = 'DATA_SUCCESS';
+export const DATA_FAIL = 'DATA_FAIL';
+
+export const CHART_DATA_REQUEST = 'CHART_DATA_REQUEST';
+export const CHART_DATA_SUCCESS = 'CHART_DATA__SUCCESS';
+export const CHART_DATA_FAIL = 'CHART_DATA__FAIL';
