@@ -1,6 +1,5 @@
-## Available Scripts
-
-In the project directory, you can run:
+![image](https://github.com/haoyou0113/Code_test_UTU_FrontEnd/blob/master/public/img/home.png)
+![image](https://github.com/haoyou0113/Code_test_UTU_FrontEnd/blob/master/public/img/chart.png)
 
 ## `How to Start`
 
@@ -28,7 +27,7 @@ $ npm start
 
 The back end part mainly base on Express, MongoDB
 
-init data: call [http://localhost5000/api/data/seed/init] to insert date into database
+init data: call http://localhost5000/api/data/seed/init to insert date into database
 
 API:
 | Api | Type | Description |
@@ -38,8 +37,3 @@ API:
 |http://localhost5000/api/data/chart/:data | Get | get initial data for chart according to date |
 |http://localhost5000/api/data/search/:currency | Get | search the specific coin with currency |
 |http://localhost5000/api/data/add | Post | generate new data |
-
-<p align="center">
-  <img src="Front_End/public/img/home.png" width="350" title="hover text">
-  <img src="Front_End/public/img/chart.png" width="350" title="hover text">
-</p>
